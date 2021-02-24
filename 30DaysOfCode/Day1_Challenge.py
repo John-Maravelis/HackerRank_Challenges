@@ -20,4 +20,4 @@ string2 = input()
 
 print(i + int2)
 print(d + double2)
-print(s + string2)
+print(s + string2) 
